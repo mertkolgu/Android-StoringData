@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
         if (storadAge == 0) {
             textView.setText("Your Age : ");
         } else {
-
             textView.setText("Your Age : " + storadAge);
         }
     }
