@@ -10,6 +10,7 @@ import android.widget.EditText;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
+
     EditText editText;
     TextView textView;
     SharedPreferences sharedPreferences;
